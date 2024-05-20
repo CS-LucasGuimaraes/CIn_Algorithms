@@ -42,7 +42,6 @@ int main(){
         idx = binarySearch(0, n, arr, v);
         arr[idx]==v ? (cout << idx):(cout << 'x'); cout << endl;
     }
-        
 
     return 0;
 }
